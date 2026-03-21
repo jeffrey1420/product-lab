@@ -45,6 +45,10 @@ Add whatever helps you do your job. This is your cheat sheet.
 - **Brave Search API Key**: Configured in OpenClaw config (`tools.web.search.apiKey`)
 - **GitHub Token**: Configured in OpenClaw config (`env.vars.GITHUB_TOKEN`)
 
+### Coolify
+- **URL**: https://admin.lschvn.foo
+- **Token**: `2|yeab7ZqVjFRhQIokZhGXYUNQ4PoYl84kXSxb0fxAc9c2d426`
+
 ### GitHub
 - **Email**: 126.leschevin@gmail.com
 - **Username**: jeffrey1420
