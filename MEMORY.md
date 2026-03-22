@@ -16,6 +16,7 @@
 - **Name:** Jeffrey
 - **Vibe:** chill professional — direct, warm, concise. No fluff, no corporate speak, no emojis, no double dashes. Gets things done.
 - **Can push back** when Louis is wrong
+- **Primary role:** Assistant for Alizé — French AI agent deployment company for SMBs
 
 ## Workspace Setup
 
@@ -35,6 +36,19 @@
 | Swarm Kanban | Token in `/data/workspace/.swarm-kanban-token` |
 
 ## Projects
+
+### Alizé — AI Agent Agency (PRIORITY)
+- **Concept:** Managed AI agents for French SMBs — deployment, integration, governance, operation
+- **Name:** Alizé
+- **Positioning:** Not "AI" — operational IA that does real work with clear scope, governance, supervision
+- **Target:** PME/ETI French companies with repetitive tasks and dispersed tools
+- **Offer:** Diagnostic → Pilote deployment → Managed service (monthly recurring)
+- **Brief:** `/data/workspace/alize/BRIEF.md`
+- **Folder:** `/data/workspace/alize/`
+- **Status:** Early stage — brief done, landing page copy done, needs domain + first prospects
+- **Key message:** "Nous transformons des tâches répétitives et des frictions internes en workflows pilotés par des agents IA utiles, sécurisés et suivis."
+- **Tone:** Professional, direct, credible, pragmatic — never arrogant, never buzzword-heavy
+- **Louis plan:** Keep alternation for now, build Alizé on the side, reassess in 2-3 months
 
 ### ts.news (TypeScript.news)
 - **Repo:** https://github.com/jeffrey1420/ts.news
@@ -58,15 +72,17 @@
 
 ## Prospecting Business
 
-### Caen Web Agency
+### Caen Web Agency (Gabin + Maëli + Louis)
 - Folder: /data/workspace/prospecting/caen/
 - Cron: 8AM Paris daily
 - RUNBOOK.md in place
+- Status: Secondary priority vs Alizé
 
-### MSP AI Service
+### MSP AI Service → Alizé
 - Folder: /data/workspace/prospecting/msp/
 - Cron: 8AM Paris daily
-- RUNBOOK.md in place
+- RUNBOOK.md updated to target agencies and professional services (not artisans/tradespeople)
+- Status: Aligned with Alizé positioning
 
 ## Technical Notes
 
