@@ -67,3 +67,23 @@ Add whatever helps you do your job. This is your cheat sheet.
 - notion, obsidian (notes)
 - trello (project management)
 - spotify-player
+
+## SerpAPI Search
+SerpAPI key: `fcde47934aac38543c03be561fdd86c61a557bdae8e6cd4ebd0a10fbb80193e0`
+
+Usage:
+```bash
+node /data/workspace/tools/search.js "vinext cloudflare" 5
+```
+
+Returns JSON array of { title, link, snippet }.
+Free tier: 100 searches/month.
+
+## MCP Tools (Nuxt/Nuxt UI)
+Script at /data/workspace/tools/mcp-nuxt.js — queries Nuxt and Nuxt UI MCP servers.
+Skill at /data/workspace/skills/nuxt-docs/SKILL.md
+
+## SerpAPI Search
+SerpAPI key: `fcde47934aac38543c03be561fdd86c61a557bdae8e6cd4ebd0a10fbb80193e0`
+Usage: `node /data/workspace/tools/search.js "query" 5`
+Tool: /data/workspace/tools/search.js
