@@ -84,6 +84,24 @@
 - RUNBOOK.md updated to target agencies and professional services (not artisans/tradespeople)
 - Status: Aligned with Alizé positioning
 
+## This Week's Tasks
+
+See `/data/workspace/tasks/weekly-2026-03-22.md`
+
+Key items:
+- **ALIZÉ**: find domain, DA (mistral-like, Paul designer), landing wording done
+- **KUROBA**: domain purchase, IA workflow, landing page
+- **CLAW**: OpenClaw on VPS
+- **TSW**: 3 articles/day (cron running at 8AM Paris)
+- **CLWFNT**: prod deployment, assets (boats/troops), Maëli logo
+- **KIMI**: cancel subscription
+- **INPI**: micro-enterprise hosting docs
+- **PERMIS**: inscription + paperwork
+- **GABIN**: pants + minimax API key
+- **F&M**: lighter images solution
+- **DANEMARK**: European Sleeper with Malo
+- **COLOC**: message proprio
+
 ## Technical Notes
 
 - OpenClaw has NO native MCP support (ACP protocol explicitly ignores mcpServers config)
