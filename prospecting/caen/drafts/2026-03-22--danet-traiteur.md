@@ -10,7 +10,7 @@ date: 2026-03-22
 
 Bonjour,
 
-Le site danet-traiteur.com envoie les visiteurs vers Bookelis pour lire la bio du chef et voir les menus — autant dire que le site ne sert pas a grand-chose en termes de conversion. Pour un traiteur qui celebre ses 40 ans cette annee, c'est dommage.
+Le site danet-traiteur.com envoie les visiteurs vers Bookelis pour lire la bio du chef et voir les menus — autant dire que le site ne sert pas a grand-chose. Pour un traiteur qui celebre ses 40 ans cette annee, c'est dommage.
 
 40 ans de savoir-faire en cuisine normande, c'est une histoire a raconter sur le site — pas a deleguer a une plateforme tierce.
 
@@ -20,4 +20,6 @@ Ouvert a en discuter ?
 
 Louis
 
-Pour vous désinscrire: juste à me le dire.
+Notre site : kuroba.studio, ecrivez-nous a contact@kuroba.studio
+
+Pour vous desinscrire: juste a me le dire.

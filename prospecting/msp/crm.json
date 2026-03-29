@@ -14,25 +14,16 @@
       "phone": null,
       "source": "research-2026-03-22",
       "pain_points": [
-        "Prise de devis par téléphone/email uniquement",
+        "Prise de devis par telephone/email uniquement",
         "Pas de prise de RDV en ligne visible",
-        "Dépannage d'urgence 7j/7 - gestion des appels hors horaires difficile"
+        "Depannage urgence 7j/7 - gestion des appels hors horaires difficile"
       ],
-      "business_hypothesis": "PME artisanale avec Techniciens souvent en intervention, perd des leads par manque de réponse rapide aux demandes de devis. Un agent IA pourrait gérer les demandes entrantes et planifier les interventions.",
+      "business_hypothesis": "PME artisanale - perd des leads par manque de reponse rapide aux demandes de devis.",
       "score_total": 95,
-      "score_breakdown": {
-        "geo": 15,
-        "business_size": 20,
-        "automation_need": 25,
-        "decision_maker_access": 5,
-        "email_angle": 15,
-        "roi_potential": 15
-      },
-      "email_draft": {
-        "subject": "dépannage urgent + perdus entre deux",
-        "body": "Thomas, votre site indique dépannage 7j/7 — mais quand un client a une urgence à 22h, il tombe sur un répondeur ou votre boîte mail.\n\nAutant de leads qui partent chez le premier artisan disponible sur Google.\n\nUn agent IA peut gérer vos demandes entrantes, qualifier l'urgence et planifier les interventions même hors horaires.\n\nOuvert à voir comment ça marcherait pour Ramond ?\n\nLouis\n---\nVous souhaitez ne plus recevoir de messages ? Répondez simplement à ce mail."
-      },
-      "status": "draft"
+      "score_breakdown": {"geo":15,"business_size":20,"automation_need":25,"decision_maker_access":5,"email_angle":15,"roi_potential":15},
+      "email_draft": {"subject":"depannage urgent + perdus entre deux"},
+      "status": "draft",
+      "outreach_date": "2026-03-22"
     },
     {
       "id": "cabinet-infirmier-chemin-vert",
@@ -40,33 +31,24 @@
       "company_slug": "cabinet-chemin-vert",
       "city": "Caen",
       "website": "https://www.infirmier-caen-chemin-vert.fr/",
-      "industry": "Santé / Soins infirmiers",
+      "industry": "Sante / Soins infirmiers",
       "decision_maker": "Mathilde Moisson",
-      "title": "Gérante",
+      "title": "Gerante",
       "email": "contact@infirmier-caen-chemin-vert.fr",
       "email_status": "form_only",
       "phone": null,
       "source": "research-2026-03-22",
       "pain_points": [
-        "Gestion multi-cabinets (Chemin-Vert, Saint-Paul, Authie, etc.)",
-        "Prise de RDV par téléphone chronophage",
-        "Planning de tournée soins à domicile complexe"
+        "Gestion multi-cabinets",
+        "Prise de RDV par telephone chronophage",
+        "Planning de tournee soins a domicile complexe"
       ],
-      "business_hypothesis": "Cabinet infirmier avec plusieurs tournées - un agent IA pourrait gérer la prise de RDV, le planning de tournée et la coordination avec les patients.",
+      "business_hypothesis": "Cabinet infirmier avec plusieurs tournees - agent IA pourrait gerer la prise de RDV et coordination patients.",
       "score_total": 95,
-      "score_breakdown": {
-        "geo": 15,
-        "business_size": 20,
-        "automation_need": 25,
-        "decision_maker_access": 5,
-        "email_angle": 15,
-        "roi_potential": 15
-      },
-      "email_draft": {
-        "subject": "rdv par téléphone, encore ?",
-        "body": "Mathilde, sur votre site — plusieurs numéros pour plusieurs cabinets. Un patient qui veut prendre rendez-vous hésite entre Saint-Paul, Authie, Chemin-Vert...\n\nPendant ce temps, votre équipe est déjà en tournée.\n\nUn agent IA peut centraliser les demandes, orienter les patients et gérer les créneaux sans que votre équipe soit interrompue.\n\nIntéressé d'en voir plus ?\n\nLouis\n---\nVous souhaitez ne plus recevoir de messages ? Répondez simplement à ce mail."
-      },
-      "status": "draft"
+      "score_breakdown": {"geo":15,"business_size":20,"automation_need":25,"decision_maker_access":5,"email_angle":15,"roi_potential":15},
+      "email_draft": {"subject":"rdv par telephone, encore ?"},
+      "status": "draft",
+      "outreach_date": "2026-03-22"
     },
     {
       "id": "brasserie-gustave",
@@ -81,27 +63,13 @@
       "email_status": "form_only",
       "phone": null,
       "source": "research-2026-03-22",
-      "pain_points": [
-        "Grande brasserie 100 places + terrasse",
-        "Gestion reservations groupes et événements",
-        "Multi-canal: téléphone, email, réseaux sociaux",
-        "Incendie récent - reconstruction en cours"
-      ],
-      "business_hypothesis": "Grande brasserie avec fort trafic - un agent IA pourrait gérer les réservations, les demandes événements et le service après-incendie pour reconstruire la clientèle.",
+      "pain_points": ["Grande brasserie 100 places + terrasse","Gestion reservations groupes et evenements","Multi-canal","Incendie recent - reconstruction en cours"],
+      "business_hypothesis": "Grande brasserie - agent IA pourrait gerer reservations et demandes evenements.",
       "score_total": 90,
-      "score_breakdown": {
-        "geo": 15,
-        "business_size": 15,
-        "automation_need": 25,
-        "decision_maker_access": 5,
-        "email_angle": 15,
-        "roi_potential": 15
-      },
-      "email_draft": {
-        "subject": "reconstruction et réservations",
-        "body": "Pierre, 100 places + terrasse — la reconstruction après l'incendie, c'est aussi l'occasion de repenser'service et réservations.\n\nAujourd'hui, les demandes groupes, séminaires et événements arrivent par téléphone, mail, Instagram... difficile de tout suivre sans louper un client.\n\nUn agent IA peut centraliser et traiter chaque demande 24h/24.\n\nDiscutons de ce que ça pourrait donner pour Gustave ?\n\nLouis\n---\nVous souhaitez ne plus recevoir de messages ? Répondez simplement à ce mail."
-      },
-      "status": "draft"
+      "score_breakdown": {"geo":15,"business_size":15,"automation_need":25,"decision_maker_access":5,"email_angle":15,"roi_potential":15},
+      "email_draft": {"subject":"reconstruction et reservations"},
+      "status": "draft",
+      "outreach_date": "2026-03-22"
     },
     {
       "id": "sarl-jacques-pierre-electricite",
@@ -109,33 +77,20 @@
       "company_slug": "sarl-jacques-pierre",
       "city": "Ifs (Caen la Mer)",
       "website": "https://www.jacques-pierre-electricite.fr/",
-      "industry": "Électricité générale",
+      "industry": "Electricite generale",
       "decision_maker": "Pierre Laurent Jacques Pierre",
-      "title": "Gérant",
+      "title": "Gerant",
       "email": "jacquespierre.elec@gmail.com",
       "email_status": "verified_direct",
       "phone": null,
       "source": "research-2026-03-22",
-      "pain_points": [
-        "PETITE entreprise artisanale - gestion totale par le gérant",
-        "Devis par email ou téléphone uniquement",
-        "Pas de système de prise de RDV en ligne"
-      ],
-      "business_hypothesis": "Gérant unique/small team - un agent IA pourrait prendre en charge la gestion des appels, la rédaction des devis et le suivi client pour libérer du temps au gérant.",
+      "pain_points": ["PME artisanale - gestion totale par le gerant","Devis par email ou telephone uniquement","Pas de systeme de prise de RDV en ligne"],
+      "business_hypothesis": "Gerant unique - agent IA pourrait prendre en charge appels, devis et suivi client.",
       "score_total": 85,
-      "score_breakdown": {
-        "geo": 15,
-        "business_size": 5,
-        "automation_need": 25,
-        "decision_maker_access": 10,
-        "email_angle": 15,
-        "roi_potential": 15
-      },
-      "email_draft": {
-        "subject": "devis, appels, interventions — vous seul ?",
-        "body": "Pierre, un électricien qui gère seul devis, interventions et suivi client — c'est courant, mais épuisant.\n\nQuand vous êtes en intervention, les demandes de devis s'accumulent. Quand vous êtes sur les devis, les clients appellent ailleurs.\n\nUn agent IA peut prendre en charge devis_initiaux et relances, vous laissant focusser sur le terrain.\n\nÇa vous parlerait qu'on en parle ?\n\nLouis\n---\nVous souhaitez ne plus recevoir de messages ? Répondez simplement à ce mail."
-      },
-      "status": "draft"
+      "score_breakdown": {"geo":15,"business_size":5,"automation_need":25,"decision_maker_access":10,"email_angle":15,"roi_potential":15},
+      "email_draft": {"subject":"devis, appels, interventions — vous seul ?"},
+      "status": "draft",
+      "outreach_date": "2026-03-22"
     },
     {
       "id": "riva-paysage",
@@ -143,40 +98,152 @@
       "company_slug": "riva-paysage",
       "city": "Ouistreham (Caen la Mer)",
       "website": "https://www.riva-paysage.com/",
-      "industry": "Paysagisme / Aménagement extérieur",
+      "industry": "Paysagisme / Amenagement exterieur",
       "decision_maker": "Serge Lecoq",
-      "title": "Gérant",
+      "title": "Gerant",
       "email": "contact@riva-paysage.com",
       "email_status": "form_only",
       "phone": null,
       "source": "research-2026-03-22",
-      "pain_points": [
-        "Devis et études de projets par téléphone/email",
-        "Gestion des interventions saisonnières",
-        "Pas de système de prise de RDV visible"
-      ],
-      "business_hypothesis": "Entreprise de paysagisme avec interventions multiples - un agent IA pourrait gérer les demandes de devis, la planification des interventions et le suivi client.",
+      "pain_points": ["Devis et etudes de projets par telephone/email","Gestion des interventions saisonnieres","Pas de systeme de prise de RDV visible"],
+      "business_hypothesis": "Entreprise paysagisme - agent IA pourrait gerer demandes de devis et planification interventions.",
       "score_total": 85,
-      "score_breakdown": {
-        "geo": 15,
-        "business_size": 20,
-        "automation_need": 25,
-        "decision_maker_access": 5,
-        "email_angle": 10,
-        "roi_potential": 10
-      },
-      "email_draft": {
-        "subject": "devis paysagerie - saison chargée",
-        "body": "Serge, à cette saison, les demandes de devis doivent s'accumuler — études de projet, visites sur site, chiffrages.\n\nClassique en paysagisme : le gérant court entre les interventions et les demandes clients.\n\nUn agent IA peut qualifier les demandes de devis et planifier les visites sans que vous perdiez des leads entre deux matchs.\n\nOuvert à en discuter ?\n\nLouis\n---\nVous souhaitez ne plus recevoir de messages ? Répondez simplement à ce mail."
-      },
-      "status": "draft"
+      "score_breakdown": {"geo":15,"business_size":20,"automation_need":25,"decision_maker_access":5,"email_angle":10,"roi_potential":10},
+      "email_draft": {"subject":"devis paysagerie - saison chargee"},
+      "status": "draft",
+      "outreach_date": "2026-03-22"
+    },
+    {
+      "id": "le-klub",
+      "company": "Le Klub",
+      "company_slug": "le-klub",
+      "city": "Herouville-Saint-Clair (Caen la Mer)",
+      "website": "https://www.leklub.fr/",
+      "industry": "Agence de communication",
+      "decision_maker": "Alexandre",
+      "title": "Directeur, co-fondateur",
+      "email": "",
+      "email_status": "form_only",
+      "phone": null,
+      "source": "research-2026-03-23",
+      "pain_points": [
+        "Gestion multi-clients briefs coordination 3 poles strategie creation digital",
+        "Communication cross-canal clients reseaux sociaux partenaires",
+        "Suivi propositions relances clients chronophage"
+      ],
+      "business_hypothesis": "Agence 10+ personnes flux constant briefs clients — agent IA pourrait gerer collecte briefs entrants, suivi propositions et relances automatiques.",
+      "score_total": 83,
+      "score_breakdown": {"geo":15,"business_size":15,"automation_need":25,"decision_maker_access":8,"email_angle":10,"roi_potential":10},
+      "email_draft": {"subject":"relances briefs entre poles"},
+      "status": "draft",
+      "outreach_date": "2026-03-23"
+    },
+    {
+      "id": "so-comm",
+      "company": "SO'comm",
+      "company_slug": "so-comm",
+      "city": "Herouville-Saint-Clair (Caen la Mer)",
+      "website": "https://so-comm.fr/",
+      "industry": "Agence de communication",
+      "decision_maker": "",
+      "title": "Gerant",
+      "email": "info@so-comm.fr",
+      "email_status": "verified_direct",
+      "phone": "02 31 79 55 44",
+      "source": "research-2026-03-23",
+      "pain_points": [
+        "15 ans existence volume client eleve a gerer",
+        "Multi-canal strategie digital print social media",
+        "Relance propositions commerciales suivi clients"
+      ],
+      "business_hypothesis": "Agence etablie multiples expertises — agent IA pourrait gerer demandes entrantes, qualifier briefs et assurer suivi commercial.",
+      "score_total": 82,
+      "score_breakdown": {"geo":15,"business_size":15,"automation_need":25,"decision_maker_access":8,"email_angle":12,"roi_potential":7},
+      "email_draft": {"subject":"briefs entrants et conversion"},
+      "status": "draft",
+      "outreach_date": "2026-03-23"
+    },
+    {
+      "id": "tpv-courtage",
+      "company": "TPV Courtage",
+      "company_slug": "tpv-courtage",
+      "city": "Colleville-Montgomery (Caen la Mer)",
+      "website": "https://www.tpvcourtage.fr/",
+      "industry": "Courtage en assurances",
+      "decision_maker": "Valerie Phal",
+      "title": "Gerante",
+      "email": "contact@tpvcourtage.fr",
+      "email_status": "form_only",
+      "phone": "02 31 36 45 06",
+      "source": "research-2026-03-23",
+      "pain_points": [
+        "Volume eleve demandes particuliers et professionnels",
+        "Relances automatiques renouvellements et sinistres",
+        "Disponibilite hors horaires pour capturer les leads"
+      ],
+      "business_hypothesis": "Courtier independant 20 ans exp — agent IA pourrait repondre aux questions courantes sur les contrats, qualifier besoins et prendre RDV.",
+      "score_total": 79,
+      "score_breakdown": {"geo":14,"business_size":10,"automation_need":25,"decision_maker_access":10,"email_angle":10,"roi_potential":10},
+      "email_draft": {"subject":"assurance a 22h — vous perdez des leads"},
+      "status": "draft",
+      "outreach_date": "2026-03-23"
+    },
+    {
+      "id": "n-breillot-expert-comptable",
+      "company": "NBreillot Expert Comptable",
+      "company_slug": "n-breillot-expert-comptable",
+      "city": "Caen",
+      "website": "https://nbreillot-expertcomptable.fr/",
+      "industry": "Expertise comptable",
+      "decision_maker": "Natalia Breillot",
+      "title": "Directrice",
+      "email": "hello@nbreillot-expertcomptable.fr",
+      "email_status": "verified_direct",
+      "phone": "06 43 18 18 05",
+      "source": "research-2026-03-23",
+      "pain_points": [
+        "Volume eleve demandes clients recourants",
+        "Relances pour justificatifs et documents comptables",
+        "Approche digitale mais taches admin chronophages"
+      ],
+      "business_hypothesis": "Cabinet comptable avec approche digitale — agent IA pourrait gerer demandes clients courantes, relances documents et prise de RDV.",
+      "score_total": 78,
+      "score_breakdown": {"geo":15,"business_size":10,"automation_need":20,"decision_maker_access":10,"email_angle":15,"roi_potential":8},
+      "email_draft": {"subject":"relances documents et charge admin"},
+      "status": "draft",
+      "outreach_date": "2026-03-23"
+    },
+    {
+      "id": "casa-immobilier",
+      "company": "Casa",
+      "company_slug": "casa-immobilier",
+      "city": "Caen",
+      "website": "https://www.immo-casa.fr/",
+      "industry": "Agence immobiliere",
+      "decision_maker": "",
+      "title": "Gerant",
+      "email": "",
+      "email_status": "form_only",
+      "phone": null,
+      "source": "research-2026-03-23",
+      "pain_points": [
+        "Volume eleve demandes sur les biens publies",
+        "Gestion RDV visites et suivi acquereurs",
+        "Relances apres visites pour reconquerir leads tiedes"
+      ],
+      "business_hypothesis": "Agence immobiliere volume demandes important — agent IA pourrait qualifier acquereurs, gerer RDV visites et suivre leads apres visite.",
+      "score_total": 75,
+      "score_breakdown": {"geo":15,"business_size":15,"automation_need":25,"decision_maker_access":5,"email_angle":8,"roi_potential":7},
+      "email_draft": {"subject":"\"est-ce que c'est encore disponible ?\""},
+      "status": "draft",
+      "outreach_date": "2026-03-23"
     }
   ],
   "metadata": {
     "created": "2026-03-22T07:15:00Z",
-    "source_file": "/data/workspace/prospects-caen-ai-agents.json",
-    "total_prospects_scored": 17,
-    "total_selected": 5,
-    "excluded_already_in_outreach": []
+    "updated": "2026-03-23T07:15:00Z",
+    "total_prospects": 10,
+    "total_prospects_2026-03-23": 5,
+    "notes": "Day 2 of MSP prospecting. Research sub-agent failed (rate limit) - manual research used. Focused on agencies/professional services per RUNBOOK (not artisans). Today's top picks are all agencies/professional services."
   }
 }

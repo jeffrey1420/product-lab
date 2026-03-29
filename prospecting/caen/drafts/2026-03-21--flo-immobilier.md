@@ -4,19 +4,20 @@ contact: flo-immobilier@orange.fr
 status: draft
 ---
 
-**Objet :** Votre site web — premier印象的
+**Objet :** Votre site web
 
 Bonjour,
 
-Je suis allé voir le site de Flo Immobilier cette semaine. En centr-de-ville de Caen depuis 2007, une page d'accueil qui tient sur quelques lignes — sans photo de vos biens, sans presentación de votre équipe, sans rien qui donne envie de rester.
+Je suis passe voir le site de Flo Immobilier. Une page d'accueil qui tient sur quelques lignes — pas de photo de biens, pas de presentation d'equipe, rien qui donne envie de rester.
 
-Pour une agence immobilière, c'est un vrai manque. Vos clients potentiels visitent une dizaine d'annonces par jour sur les grands portails. Quand ils arrivent sur votre site et ne trouvent rien, ils repartent aussi vite.
+Pour une agence en centre-ville depuis 2007, c'est un vrai manque. Vos clients potentiels visitent des tas d'annonces sur les grands portails. Quand ils arrivent ici et ne trouvent rien, ils repartent.
 
-Même un site vitrine simple — avec vos coordonnées, votre zone d'intervention, une présentation de votre approche, et des photos de vos biens disponibles — ferait une vraie différence. C'est souvent ce qui fait la différence entre une agence qu'on appelle et une autre qu'on zappe.
+Un site vitrine simple avec vos coordonnees, votre zone, et des photos de biens disponibles — ca changerait pas mal de choses.
 
 Envie d'en parler ?
 
 Louis
 
----
-Si vous ne souhaitez plus recevoir d'emails de ma part, répondez simplement STOP.
+Notre site : kuroba.studio, ecrivez-nous a contact@kuroba.studio
+
+Si vous ne souhaitez plus recevoir d'emails de ma part, repondez simplement STOP.

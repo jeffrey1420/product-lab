@@ -1,0 +1,94 @@
+{
+  "customers": [
+    {
+      "id": "CDG001",
+      "name": "Dr Auffray",
+      "company": "Cabinet Dentaire Gardin",
+      "email": "02 31 96 98 96",
+      "phone": "02 31 96 98 96",
+      "status": "draft",
+      "source": "pagesjaunes.fr search",
+      "created": "2026-03-23",
+      "last_contact": null,
+      "interactions": [
+        {
+          "date": "2026-03-23",
+          "type": "draft_created",
+          "content": "Email draft prêt — site EXTREMEMENT thin"
+        }
+      ]
+    },
+    {
+      "id": "LCAS002",
+      "name": "La Casinière",
+      "company": "La Casinière Restaurant",
+      "email": "02 31 38 82 84",
+      "phone": "02 31 38 82 84",
+      "status": "draft",
+      "source": "google search",
+      "created": "2026-03-23",
+      "last_contact": null,
+      "interactions": [
+        {
+          "date": "2026-03-23",
+          "type": "draft_created",
+          "content": "Email draft prêt — thin content homepage"
+        }
+      ]
+    },
+    {
+      "id": "CDS003",
+      "name": "Cabinet Dentaire Saint Pierre",
+      "company": "Cabinet Dentaire Saint Pierre",
+      "email": "contact form",
+      "phone": null,
+      "status": "draft",
+      "source": "google search",
+      "created": "2026-03-23",
+      "last_contact": null,
+      "interactions": [
+        {
+          "date": "2026-03-23",
+          "type": "draft_created",
+          "content": "Email draft prêt — site basique"
+        }
+      ]
+    },
+    {
+      "id": "LCG004",
+      "name": "Le Caen Grill",
+      "company": "Le Caen Grill",
+      "email": "contact@caen-grill.fr",
+      "phone": "02 31 85 23 64",
+      "status": "draft",
+      "source": "google search",
+      "created": "2026-03-23",
+      "last_contact": null,
+      "interactions": [
+        {
+          "date": "2026-03-23",
+          "type": "draft_created",
+          "content": "Email draft prêt — menu images, contact 404"
+        }
+      ]
+    },
+    {
+      "id": "AB005",
+      "name": "Anthony Boland",
+      "company": "Anthony Boland Pédicure Podologue",
+      "email": "06 01 88 66 40",
+      "phone": "06 01 88 66 40",
+      "status": "draft",
+      "source": "doctolib.fr search",
+      "created": "2026-03-23",
+      "last_contact": null,
+      "interactions": [
+        {
+          "date": "2026-03-23",
+          "type": "draft_created",
+          "content": "Email draft prêt — site basique, titres dupliqués"
+        }
+      ]
+    }
+  ]
+}

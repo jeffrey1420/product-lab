@@ -39,7 +39,23 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 Add whatever helps you do your job. This is your cheat sheet.
 
+## Claude Code Setup
+Claude Code CLI installed at `/usr/local/bin/claude` v2.1.81
+Config: `~/.claude/settings.json`
+Uses MiniMax API key as ANTHROPIC_AUTH_TOKEN with MiniMax endpoint
+Model: MiniMax-M2.7
+
+## Kuroba Email
+- contact@kuroba.studio — configured at `~/.config/imap-smtp-email/.env`
+- IMAP/SMTP ready — can read inbox and send emails
+- Waiting for Gabin to finish landing page before sending to prospects
+
 ## Credentials (Stored in OpenClaw Config)
+
+### MiniMax API Key (Claude Code)
+- Stored in: `~/.claude/settings.json` (ANTHROPIC_AUTH_TOKEN field)
+- Used for: Claude Code CLI
+- Model: MiniMax-M2.7
 
 ### API Keys
 - **Brave Search API Key**: Configured in OpenClaw config (`tools.web.search.apiKey`)
@@ -87,3 +103,8 @@ Skill at /data/workspace/skills/nuxt-docs/SKILL.md
 SerpAPI key: `fcde47934aac38543c03be561fdd86c61a557bdae8e6cd4ebd0a10fbb80193e0`
 Usage: `node /data/workspace/tools/search.js "query" 5`
 Tool: /data/workspace/tools/search.js
+
+## SearXNG (Primary Search)
+Self-hosted at: https://searxng.lschvn.foo
+Usage: `node /data/workspace/tools/searxng-search.js "query" 5`
+Better results than SerpAPI for recent news. Use this first.

@@ -4,19 +4,18 @@ contact: info@cabinet-roger.fr
 status: draft
 ---
 
-**Objet :** Votre présence en ligne — quelques idées
+**Objet :** Cabinet Roger — le site meritait mieux
 
 Bonjour,
 
-Le Cabinet Roger existe depuis 1981 — c'est une vraie institution immobilière à Caen. Mais quand on tombe sur votre site, on a l'impression d'être face à une page d'annuaire un peu ancienne, très textuelle, sans vraiment de vision de ce que vous proposez concrètement.
+Le Cabinet Roger existe depuis 1981 — une vraie institution immobilière a Caen. Mais le site fait vraiment fiche annuaire. Pas de photos, pas de vision concrete de ce que vous proposez.
 
-Les agences immobilières qui rankent en premier sur Google aujourd'hui ont des sites visuels, avec des photos de biens, des témoignages clients, et des call-to-action clairs. Les acheteurs et vendeurs caennais comparent vite — et votre site ne donne pas envie de pousser la porte.
+Les agences qui rankent sur Google ont des sites visuels, des photos de biens, des temoignages. Les clients comparent — et la votre site donne pas envie d'aller plus loin.
 
-On pourrait créer ensemble une version moderne de votre vitrine en ligne : design actuel, navigation claire, mise en valeur de vos annonces et de votre expertise locale. Le but : que les gens qui vous cherchent sur Google aient envie de vous appeler.
-
-_intéressé ?
+On pourrait creer ensemble une version qui donne envie de franchir la porte ?
 
 Louis
 
----
-Si vous ne souhaitez plus recevoir d'emails de ma part, répondez simplement STOP.
+Notre site : kuroba.studio, ecrivez-nous a contact@kuroba.studio
+
+Si vous ne souhaitez plus recevoir d'emails de ma part, repondez simplement STOP.

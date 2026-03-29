@@ -6,17 +6,18 @@ status: draft
 
 **Objet :** Votre site web — quelques observations
 
-Bonjour Maître,
+Bonjour Maitre,
 
-Votre site est consultable, mais il tient en quelques paragraphes. En tant qu'avocate reconnue depuis 30 ans à Caen, il mérite largement plus de visibilité.
+Votre site est consultable mais il tient en quelques paragraphes. En tant qu'avocate reconnue depuis 30 ans a Caen, il merite largement plus de visibilite.
 
-Aujourd'hui, les gens qui cherchent un avocat tapent leurs symptômes juridiques sur Google. S'ils tombent sur une page quasi-vide alors que vos concurrents ont des pages thématiques détaillées sur le droit de la famille, le droit pénal, etc. — le choix est vite fait.
+Aujourd'hui les gens qui cherchent un avocat tapent leurs symptomes juridiques sur Google. S'ils tombent sur une page quasi-vide alors que vos concurrents ont des pages thematiques detaillees — le choix est vite fait.
 
-Un site plus structuré, avec vos domaines de compétence clairement présentés, vos coordonnées en évidence, et un formulaire de contact simple, pourrait vous amener des demandes qualifiées sans rien changer à votre façon de travailler.
+Un site plus structure, avec vos domaines de competence clairement presentes et un formulaire de contact simple, pourrait vous amener des demandes qualifiees.
 
-Ça vous parle ? Je serais ravi d'en discuter.
+Vous avez 10 minutes cette semaine ?
 
 Louis
 
----
-Si vous ne souhaitez plus recevoir d'emails de ma part, répondez simplement STOP.
+Notre site : kuroba.studio, ecrivez-nous a contact@kuroba.studio
+
+Si vous ne souhaitez plus recevoir d'emails de ma part, repondez simplement STOP.

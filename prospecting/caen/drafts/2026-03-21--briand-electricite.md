@@ -4,16 +4,16 @@ contact: Formulaire (https://www.electricite-briand.fr/contact/)
 status: draft
 ---
 
-**Objet : 20 ans de métier, un site qui pourrait atraer plus de projets**
+**Objet :** Votre site briand-electricite.fr
 
 Bonjour,
 
-Briand Électricité — 20 ans dans le Calvados, du dépannage à l'installation, une équipe qui couvre Caen et toute la côte. C'est une société avec du mordant. Mais le site lit comme une fiche PagesJaunes avancée : du texte, encore du texte, une liste de services, pas deRealisations, pas de carte interactive, pas de portfolio.
+20 ans de métier, une équipe qui couvre Caen et la côte. Mais sur le site : que du texte, aucune photo de realization, pas de portfolio. Un client qui cherche un electricien aujourd'hui il compare vite — et la il a rien sous les yeux.
 
-Pour une entreprise qui veut avere des clients sur des projets plus ambitieux (installation complète, projets tertiaires), un site avec des photos de réalisations, des témoignages, une zone interactive — ça change tout.
+On bosse avec des artisans qui veulent etre pris au serieux sur le web.
 
-Nous on travaille avec des artisans qui veulent passer à l'étape au-dessus.
-
-Ouvert à en discuter 10 minutes ?
+Vous avez 5 minutes cette semaine pour en parler ?
 
 Louis
+
+Notre site : kuroba.studio, écrivez-nous à contact@kuroba.studio

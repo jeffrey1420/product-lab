@@ -28,6 +28,22 @@
     "agent-team-orchestration": {
       "version": "1.0.0",
       "installedAt": 1774119639905
+    },
+    "imap-smtp-email": {
+      "version": "0.0.10",
+      "installedAt": 1774259201077
+    },
+    "self-improving-agent": {
+      "version": "3.0.5",
+      "installedAt": 1774260949160
+    },
+    "clawdhub": {
+      "version": "1.0.0",
+      "installedAt": 1774260968482
+    },
+    "openai-whisper": {
+      "version": "1.0.0",
+      "installedAt": 1774279288293
     }
   }
 }

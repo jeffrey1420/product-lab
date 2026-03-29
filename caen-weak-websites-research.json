@@ -1,0 +1,295 @@
+[
+  {
+    "company": "Thomasse Électricité",
+    "city": "Caen",
+    "website": "https://www.thomasse-electricite-caen.fr/",
+    "industry": "artisan",
+    "contact": "02.31.75.17.80",
+    "pain_points": [
+      "Website appears to be from pre-2015 era with very basic text-only layout",
+      "Thin content - only 1862 characters total",
+      "No modern design elements, no images visible in content",
+      "Company created in 1979 but website doesn't convey professionalism",
+      "No clear services description beyond basic bullet points"
+    ],
+    "business_hypothesis": "Established electrical company since 1979 but website完全没有体现其专业性. A modern site would help them compete with newer competitors and showcase their 45+ years of experience properly.",
+    "sources": ["web_search: électricien Caen site:.fr", "web_fetch"]
+  },
+  {
+    "company": "Piquot - Plombier-chauffagiste",
+    "city": "Caen",
+    "website": "https://www.piquot.fr/",
+    "industry": "artisan",
+    "contact": "Phone not visible, no contact form found",
+    "pain_points": [
+      "Extremely thin content - only 1298 characters",
+      "Website looks pre-2010 with minimal design",
+      "No photos, no modern layout",
+      "Company claims to be established since 1946 but website doesn't convey heritage",
+      "Content is generic marketing speak with no specific details"
+    ],
+    "business_hypothesis": "Company has been in business since 1946 (80 years!) but website完全没有展示这个优势. A modern site with their history as a selling point would differentiate them significantly.",
+    "sources": ["web_search: plombier Caen site:.fr", "web_fetch"]
+  },
+  {
+    "company": "NBreillot Expert Comptable",
+    "city": "Caen",
+    "website": "https://nbreillot-expertcomptable.fr/",
+    "industry": "b2b",
+    "contact": "06 43 18 18 05 (visible in search snippet)",
+    "pain_points": [
+      "Basic template-style website with no distinctive design",
+      "Thin content organized in repetitive sections",
+      "No clear pricing or services detail",
+      "Digital approach mentioned but not demonstrated on site",
+      "Looks like a generic WordPress template"
+    ],
+    "business_hypothesis": "Accountant needs a website that actually demonstrates digital competence since that's their selling point. Current site is ironic for a 'digital-first' accountant.",
+    "sources": ["web_search: comptable Caen site:.fr", "web_fetch"]
+  },
+  {
+    "company": "FIDUTECH Conseils",
+    "city": "Caen la Mer / Fleury-sur-Orne",
+    "website": "https://www.fidutech-conseils.fr/",
+    "industry": "b2b",
+    "contact": "No visible phone or email on homepage",
+    "pain_points": [
+      "Very thin content - only 1688 characters",
+      "No contact information visible on homepage",
+      "Generic corporate template design",
+      "No specific details about team or expertise",
+      "Looks like a placeholder site"
+    ],
+    "business_hypothesis": "Accounting firm with 30 collaborators needs a professional website that showcases their team and attracts SMB clients. Current site fails to build trust.",
+    "sources": ["web_search: comptable Caen site:.fr", "web_fetch"]
+  },
+  {
+    "company": "La Trattoria",
+    "city": "Caen",
+    "website": "https://www.trattoria-caen.fr/en/",
+    "industry": "restaurant",
+    "contact": "No phone or email visible, newsletter subscription only",
+    "pain_points": [
+      "Website is in English only despite being a French restaurant",
+      "No menu visible on homepage",
+      "Extremely minimal content - just hours and payment methods",
+      "No photos of food, interior, or dishes",
+      "No address with map integration",
+      "No online reservation system"
+    ],
+    "business_hypothesis": "Italian restaurant in Vaugueux district needs a website that shows their authentic cuisine and allows reservations. Currently missing basic restaurant website features.",
+    "sources": ["web_search: restaurant Caen site:.fr", "web_fetch"]
+  },
+  {
+    "company": "Nachos - Restaurant Mexicain",
+    "city": "Caen",
+    "website": "https://nachos.fr/en/caen/",
+    "industry": "restaurant",
+    "contact": "No visible phone or contact form",
+    "pain_points": [
+      "Website redirects to English version for a French restaurant",
+      "Thin content with repetitive marketing text",
+      "No actual Mexican menu prices visible",
+      "Promise of 'best Mexican restaurant' without evidence",
+      "No online ordering or reservation system"
+    ],
+    "business_hypothesis": "Mexican restaurant claiming to be 'Caen's best' needs proof points and online ordering capability. Website should drive food delivery orders through the site.",
+    "sources": ["web_search: restaurant Caen site:.fr", "web_fetch"]
+  },
+  {
+    "company": "Demaisons Menuiserie",
+    "city": "Caen la Mer",
+    "website": "https://demaisons-menuiserie.fr/",
+    "industry": "artisan",
+    "contact": "06 47 73 38 85 (mentioned in search), no form on site",
+    "pain_points": [
+      "Very thin content - only 1401 characters total",
+      "No photos of actual work",
+      "Only 4 service categories with no detail",
+      "No address or location on site",
+      "Appears to be a one-page site with placeholder content"
+    ],
+    "business_hypothesis": "Carpenter with 14 years experience has no portfolio or photos on their website. They need a visual site showcasing their custom furniture and renovation projects.",
+    "sources": ["web_search: menuisier Caen site:.fr", "web_fetch"]
+  },
+  {
+    "company": "L'Appart C - Salon de Coiffure",
+    "city": "Caen",
+    "website": "https://lappartc.fr/",
+    "industry": "retail",
+    "contact": "09.78.81.04.05 - only phone listed, no email",
+    "pain_points": [
+      "Very minimal one-page style website",
+      "No prices for services visible",
+      "Personal story but no professional credentials shown",
+      "No online booking system",
+      "Links to Instagram/Facebook instead of showcasing work on site",
+      "No address with map"
+    ],
+    "business_hypothesis": "Solo hairstylist needs a website with service菜单和在线预约. Depending on Instagram loses leads and looks unprofessional for a 'cosy' salon.",
+    "sources": ["web_search: coiffeur Caen site:.fr", "web_fetch"]
+  },
+  {
+    "company": "AAZ Dépannages",
+    "city": "Caen",
+    "website": "https://www.aaz-depannage.fr/",
+    "industry": "artisan",
+    "contact": "06.79.78.01.77 - phone only, no email",
+    "pain_points": [
+      "Basic website with 4 service sections but thin content",
+      "Price list visible but format is basic text",
+      "Note: 'Carte bancaire non acceptée' - should be more prominent",
+      "No online booking or quote request form",
+      "Contact form exists but buried",
+      "No photos of team or work"
+    ],
+    "business_hypothesis": "Multi-service emergency contractor needs a site that communicates urgency and trust. Should have prominent emergency contact and online quote form.",
+    "sources": ["web_search: serrurerie Caen site:.fr OR vitrerie Caen", "web_fetch"]
+  },
+  {
+    "company": "Les Fougères - Fleuriste",
+    "city": "Caen",
+    "website": "https://www.les-fougeres.fr/",
+    "industry": "retail",
+    "contact": "No visible phone or email on homepage content",
+    "pain_points": [
+      "Content appears to be navigation links only",
+      "No product showcase visible in extracted content",
+      "Claims 'MPS-A' environmental certification but not explained",
+      "Partner Interflora mentioned but no direct ordering",
+      "Very thin actual content beyond navigation"
+    ],
+    "business_hypothesis": "Master florist since 1990 with environmental certification needs a site that sells flowers online and explains their quality difference. Currently just navigation.",
+    "sources": ["web_search: fleuriste Caen site:.fr", "web_fetch"]
+  },
+  {
+    "company": "MD Traiteur",
+    "city": "Caen la Mer / Fleury-sur-Orne",
+    "website": "https://md-traiteur-caen.fr/",
+    "industry": "food_catering",
+    "contact": "06 21 37 08 48, traiteurdesmet@gmail.com",
+    "pain_points": [
+      "Basic website design with thin content",
+      "No menus or pricing visible",
+      "Story about chef's background but no photos of food",
+      "No online ordering or quote request form",
+      "Contact via email or phone only"
+    ],
+    "business_hypothesis": "Caterer needs a website that showcases their food through photos and enables online quote requests for events. Current site doesn't make口水欲刺激。",
+    "sources": ["web_search: traiteur Caen site:.fr", "web_fetch"]
+  },
+  {
+    "company": "Garage Clemenceau / MORELSTILL",
+    "city": "Caen",
+    "website": "https://www.garage-clemenceau.fr/fr/mecanique",
+    "industry": "retail",
+    "contact": "No visible contact on homepage",
+    "pain_points": [
+      "List of services but very generic (alternator, starter, etc.)",
+      "No prices, no appointment booking",
+      "Promise of 'promotions régulières' but not visible",
+      "Contact form mentioned but not accessible",
+      "Generic stock photo aesthetic"
+    ],
+    "business_hypothesis": "Auto mechanic needs online booking and clear pricing. Site should compete with modern garages by offering appointment scheduling and transparent pricing.",
+    "sources": ["web_search: garagist Caen site:.fr OR mécanique Caen", "web_fetch"]
+  },
+  {
+    "company": "Le Salon - Coiffeur",
+    "city": "Caen",
+    "website": "https://le-salon-coiffure-caen.fr/",
+    "industry": "retail",
+    "contact": "No visible phone or email on site",
+    "pain_points": [
+      "Website has 'Coiffeur Visagiste Féminin Masculin depuis 2002' - 24 years old business",
+      "Pricing listed but format is basic text",
+      "No online booking system",
+      "No photos of salon or team",
+      "Basic template design with no modern features",
+      "Celebrates 20 years with '-20%' promotion but unclear"
+    ],
+    "business_hypothesis": "Family hair salon for 24+ years needs a modern site with online booking to compete with chain salons. Should showcase their experience as an advantage.",
+    "sources": ["web_search: coiffeur Caen site:.fr", "web_fetch"]
+  },
+  {
+    "company": "Clinique Vétérinaire Hastings",
+    "city": "Caen",
+    "website": "https://clinique-veterinaire-hastings.fr/",
+    "industry": "healthcare",
+    "contact": "02 31 86 16 13 - phone only, no online booking",
+    "pain_points": [
+      "Basic website with list of services but thin content",
+      "No emergency vet contact prominently displayed",
+      "No online appointment request",
+      "Team photos but generic styling",
+      "Website doesn't convey the modern 2017 facility"
+    ],
+    "business_hypothesis": "Modern veterinary clinic with full equipment needs a website that sells their capabilities and allows online appointment booking. Should highlight emergency services.",
+    "sources": ["web_search: vétérinaire Caen site:.fr", "web_fetch"]
+  },
+  {
+    "company": "Emmanuel Touzé - Salon de Coiffure",
+    "city": "Caen",
+    "website": "http://www.emmanuel-touze.fr/",
+    "industry": "retail",
+    "contact": "No visible phone or contact on homepage",
+    "pain_points": [
+      "Website claims '20 ans de passion' but design feels dated",
+      "Beautiful story about owner but not translated to visual appeal",
+      "No online booking",
+      "Photos page exists but not visible in content extraction",
+      "RSE commitment mentioned but not explained",
+      "Multiple navigation pages but thin actual content"
+    ],
+    "business_hypothesis": "Award-winning stylist with 20 years experience needs a website that visually showcases their work and allows booking. Should capitalize on their prestigious training.",
+    "sources": ["web_search: coiffeur Caen site:.fr", "web_fetch"]
+  },
+  {
+    "company": "Cabinet Infirmier Françoise Contignon",
+    "city": "Caen",
+    "website": "https://www.francoise-contignon-14.fr/",
+    "industry": "healthcare",
+    "contact": "No phone visible on homepage",
+    "pain_points": [
+      "Thin content despite multiple pages",
+      "No photo of nurses or cabinet",
+      "Basic WordPress-style template",
+      "No online appointment request",
+      "Services include diabetic care and chemo support but not explained"
+    ],
+    "business_hypothesis": "Experienced nurses need a site that builds trust for sensitive home healthcare services. Should make it easy to request home visits online.",
+    "sources": ["web_search: infirmier Caen site:.fr", "web_fetch"]
+  },
+  {
+    "company": "Les Imprimeries de Caen / Caen Repro Color",
+    "city": "Caen",
+    "website": "https://www.imprimeriesdecaen.fr/ and https://www.caenreprocolor.fr/",
+    "industry": "b2b",
+    "contact": "Multiple locations but no clear single contact",
+    "pain_points": [
+      "Multiple separate websites for affiliated printers",
+      "Caen Repro Color site uses .html pages for products (old school)",
+      "Products listed with basic descriptions but no pricing",
+      "No online ordering or quote request visible",
+      "Template-style design across all sites"
+    ],
+    "business_hypothesis": "Coalition of printers needs unified modern presence with online quote request and showcase of their eco-friendly practices. Current fragmented web presence hurts brand.",
+    "sources": ["web_search: imprimeur Caen site:.fr", "web_fetch"]
+  },
+  {
+    "company": "Restaurant Simplexité",
+    "city": "Caen",
+    "website": "http://www.restaurant-simplexite.com/",
+    "industry": "restaurant",
+    "contact": "No phone or email visible on homepage",
+    "pain_points": [
+      "Minimal content with focus on philosophy over practical info",
+      "'Make your reservation' button but no obvious contact info",
+      "Menu items shown as photos rather than accessible text",
+      "Website language seems inconsistent (English CTAs with French content)",
+      "Google Maps integration collects IP address warning"
+    ],
+    "business_hypothesis": "Chef-driven minimalist restaurant needs a site that balances their artistic philosophy with practical reservation info and clear contact details.",
+    "sources": ["web_search: restaurant Caen site:.fr", "web_fetch"]
+  }
+]

@@ -11,6 +11,13 @@
 - **Previous AI assistant:** Had one until 2 days ago (subscription died)
 - **Preferences:** Clear workspace, direct communication, no emojis, no double dashes, dry humor
 
+## Email Protocol — NEVER AUTOREPLY
+- I can READ emails from contact@kuroba.studio (IMAP configured)
+- I can NOTIFY Louis when new emails arrive
+- I must NEVER reply to emails autonomously — not even a short acknowledgment
+- If Louis asks me to write a reply, I draft it and show it to him, never send it
+- This rule applies to ALL email accounts I have access to
+
 ## Identity
 
 - **Name:** Jeffrey
@@ -20,7 +27,7 @@
 
 ## Workspace Setup
 
-- Model: MiniMax-M2.7-highspeed (default), MiniMax-M2.7 (fallback)
+- Model: z.ai coding plan key (primary), MiniMax-M2.7 (fallback, not highspeed)
 - Workspace: /data/workspace
 - Skills installed: cold-email-writer, mini-crm, web-scraping, senior-dev, academic-deep-research, swarm-kanban, agent-team-orchestration
 - Subagent concurrency: maxConcurrent 10, subagents.maxConcurrent 32
@@ -32,8 +39,14 @@
 | Coolify | https://admin.lschvn.foo, token: `2|yeab7ZqVjFRhQIokZhGXYUNQ4PoYl84kXSxb0fxAc9c2d426` |
 | GitHub | email: 126.leschevin@gmail.com, user: jeffrey1420, token in OpenClaw config |
 | SerpAPI | `fcde47934aac38543c03be561fdd86c61a557bdae8e6cd4ebd0a10fbb80193e0` (100 searches/month free) |
-| Brave Search | BSAbpcwC_sOcOLPULd4jR88RLHt3zuJ — 422 error, subscription token invalid, use SerpAPI instead |
+| Brave Search | BSAbpcwC_sOcOLPULd4jR88RLHt3zuJ — 422 error, use SearXNG instead |
 | Swarm Kanban | Token in `/data/workspace/.swarm-kanban-token` |
+
+## Search
+- **Primary:** SearXNG at https://searxng.lschvn.foo (no rate limits, privacy-respecting)
+- Skill: `/data/workspace/skills/searxng-search/SKILL.md`
+- Script: `/data/workspace/tools/searxng-search.js`
+- Fallback: SerpAPI
 
 ## Projects
 
@@ -60,6 +73,12 @@
 - **Fix:** Redeploy from Coolify UI dashboard
 - **Analytics:** GoatCounter at goatcounter.lschvn.foo
 - **Article 1:** "Vinext and Cloudflare: The Controversy Explained" (published)
+
+### Kuroba
+- Domain: kuroba.studio (just purchased)
+- Email: contact@kuroba.studio — IMAP/SMTP configured (OpenClaw can read/send)
+- Protocol: read + notify Louis, NEVER auto-reply (see Email Protocol above)
+- Status: landing page in progress (Gabin coding), then sending emails
 
 ### Swarm Kanban Team "kuroba"
 - Team ID: 69beeb43be6ec2aff8b82777
@@ -101,6 +120,12 @@ Key items:
 - **F&M**: lighter images solution
 - **DANEMARK**: European Sleeper with Malo
 - **COLOC**: message proprio
+
+## ts.news Article Rules
+- ALWAYS find a valid image URL before committing article
+- Verify URL returns 200 before adding to frontmatter
+- Image field: `image: "URL"` in frontmatter
+- Check GitHub og:image or official blog OG image first
 
 ## Technical Notes
 
